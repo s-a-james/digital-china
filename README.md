@@ -159,7 +159,7 @@ Thanks to the contribution from [Sharon Domier](https://twitter.com/SharonDomier
 ### Facebook
 - [Digital Humanities Virtual Lab | 數位人文實驗室](https://www.facebook.com/DHVirtualLab/)
 ### Twitter
-- [Digita China FCCS](https://twitter.com/DigiChinaFCCS)
+- [Digital China FCCS](https://twitter.com/DigiChinaFCCS)
 ### WeChat (Links to QRCode)
 - [比特人文](https://open.weixin.qq.com/qr/code?username=gh_6ec7183b6234)
 - [察言观数](https://open.weixin.qq.com/qr/code?username=gh_459d0f34fa03)
